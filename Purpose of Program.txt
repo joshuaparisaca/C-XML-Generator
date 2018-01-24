@@ -1,0 +1,18 @@
+/*
+ * Author: Joshua Parisaca
+ *
+ * Program's Purpose: This program will take the email, first/last name, full address of a person and convert it to a XML file.
+ * The 6 buttons are:
+ * Create XML: This will take the input information and use it to create an XML file, this has to be pressed before any other options are available
+ * Add: This will add a new record as long as the new record isn't using the a already saved email.
+ * Delete: This will delete a record based on a saved email
+ * Modify: This will modify a record based on a saved email and the changes on the input
+ * Display XML: Will open up a file system dialog that will only let you choose a XML file to display on a web browser.
+ * Show All: Will open a new windows form to show all the records saved since the start of the program seperated by the input categories
+ * Clear: Clears all input
+ * 
+ * NOTES: ALL fields must be entered
+ *        Zip Code needs to be 5 digits
+ *        Email has to have a " *@*.com " with * being wildcards
+ *        First Name cant have any spaces
+*/

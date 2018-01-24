@@ -1,0 +1,21 @@
+c:\Users\Parisaca\documents\visual studio 2015\Projects\Test2\TestLibrary\bin\Debug\TestLibrary.dll
+c:\Users\Parisaca\documents\visual studio 2015\Projects\Test2\TestLibrary\bin\Debug\TestLibrary.pdb
+c:\Users\Parisaca\documents\visual studio 2015\Projects\Test2\TestLibrary\obj\Debug\TestLibrary.csprojResolveAssemblyReference.cache
+c:\Users\Parisaca\documents\visual studio 2015\Projects\Test2\TestLibrary\obj\Debug\TestLibrary.dll
+c:\Users\Parisaca\documents\visual studio 2015\Projects\Test2\TestLibrary\obj\Debug\TestLibrary.pdb
+C:\Users\Parisaca\Desktop\Here\Test2\TestLibrary\bin\Debug\TestLibrary.dll
+C:\Users\Parisaca\Desktop\Here\Test2\TestLibrary\bin\Debug\TestLibrary.pdb
+C:\Users\Parisaca\Desktop\Here\Test2\TestLibrary\obj\Debug\TestLibrary.csprojResolveAssemblyReference.cache
+C:\Users\Parisaca\Desktop\Here\Test2\TestLibrary\obj\Debug\TestLibrary.dll
+C:\Users\Parisaca\Desktop\Here\Test2\TestLibrary\obj\Debug\TestLibrary.pdb
+C:\Users\Parisaca\Desktop\c# Populate XML\Test2\TestLibrary\bin\Debug\TestLibrary.dll
+C:\Users\Parisaca\Desktop\c# Populate XML\Test2\TestLibrary\bin\Debug\TestLibrary.pdb
+C:\Users\Parisaca\Desktop\c# Populate XML\Test2\TestLibrary\obj\Debug\TestLibrary.csprojResolveAssemblyReference.cache
+C:\Users\Parisaca\Desktop\c# Populate XML\Test2\TestLibrary\obj\Debug\TestLibrary.dll
+C:\Users\Parisaca\Desktop\c# Populate XML\Test2\TestLibrary\obj\Debug\TestLibrary.pdb
+D:\c# Populate XML\Test2\TestLibrary\bin\Debug\TestLibrary.dll
+D:\c# Populate XML\Test2\TestLibrary\bin\Debug\TestLibrary.pdb
+D:\c# Populate XML\Test2\TestLibrary\obj\Debug\TestLibrary.csprojResolveAssemblyReference.cache
+D:\c# Populate XML\Test2\TestLibrary\obj\Debug\TestLibrary.csproj.CoreCompileInputs.cache
+D:\c# Populate XML\Test2\TestLibrary\obj\Debug\TestLibrary.dll
+D:\c# Populate XML\Test2\TestLibrary\obj\Debug\TestLibrary.pdb
